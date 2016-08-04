@@ -1,0 +1,5 @@
+create table service_T065BACIUDGENE (
+	A065CODICIUD VARCHAR(75) not null primary key,
+	A065DESCCIUD VARCHAR(75) null,
+	A065CODIORG VARCHAR(75) null
+);

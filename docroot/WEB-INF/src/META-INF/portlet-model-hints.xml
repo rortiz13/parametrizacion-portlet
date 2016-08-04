@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="la.abality.parametrizar.model.T065BACIUDGENE">
+		<field name="A065CODICIUD" type="String" />
+		<field name="A065DESCCIUD" type="String" />
+		<field name="A065CODIORG" type="String" />
+	</model>
+</model-hints>
